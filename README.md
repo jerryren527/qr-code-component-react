@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Demo: [Link](https://jerryren527.github.io/qr-code-component-react/)
-- Figma File: [Link](https://www.figma.com/file/WgcYUgKCizbC6C0d2ZgVV9/qr-code-component?node-id=0%3A1&t=PMYKcSw5N58Evi3D-1)
+- Live Demo: [Link](https://jerryren527.github.io/qr-code-component-react/){:target="_blank" rel="noopener noreferrer"}
+- Figma File: [Link](https://www.figma.com/file/WgcYUgKCizbC6C0d2ZgVV9/qr-code-component?node-id=0%3A1&t=PMYKcSw5N58Evi3D-1){:target="_blank" rel="noopener noreferrer"}
 
 ## My process
 
